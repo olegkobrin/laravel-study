@@ -1,0 +1,15 @@
+
+------ composer ----------------
+cd domains\laravel.loc
+
+
+----------  git --------------
+git status
+
+git add * - добавить в область виимости
+git commit -m "unic text" - фиксация изменений "уникальный текст"
+git push  -  сокращенная весия пуша
+
+
+
+
